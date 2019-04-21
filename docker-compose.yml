@@ -1,0 +1,56 @@
+version: "3"
+services:
+  api:
+    build:
+     context: ./docker/api
+     args:
+       USERID: $UID
+    user: $UID
+    container_name: api
+    hostname: api
+    ports:
+          - 127.0.0.1:6001:6001
+    env_file:
+      - ./video-editor/.env
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./composer_home/:/var/www/.composer
+      - ./video-editor/:/var/www/video-editor:cached
+  web:
+    image: nginx:stable
+    command: [nginx-debug, '-g', 'daemon off;']
+    ports:
+      - 127.0.0.1:8080:80
+    volumes:
+      - ./video-editor/:/var/www/video-editor
+      - ./docker/web/api.conf:/etc/nginx/conf.d/api.conf:ro
+  db:
+    image: mysql:5.7
+    ports:
+      - 127.0.0.1:33066:3306
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_USER: user
+      MYSQL_PASSWORD: pass
+      MYSQL_DATABASE: video-editor
+  rabbitmq:
+      image: rabbitmq:3.7-management
+      container_name: rabbitmq
+      hostname: rabbitmq
+      ports:
+        - "7000:15672"
+        - "7001:5672"
+      environment:
+        - RABBITMQ_DEFAULT_USER=rabbitmquser
+        - RABBITMQ_DEFAULT_PASS=some_password
+  phpmyadmin:
+      image: phpmyadmin/phpmyadmin:4.7
+      links:
+       - db
+      depends_on:
+       - db
+      ports:
+       - 127.0.0.1:15000:80
+      environment:
+       - PMA_HOST=db
+
