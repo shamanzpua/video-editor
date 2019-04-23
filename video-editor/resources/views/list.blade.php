@@ -80,10 +80,9 @@
     <body>
 
     <?php
-
-    foreach ($videos as $video) {
-        echo "<video src=\"/output/". $video->id ."/final.mp4\" width=\"400\" height=\"300\" controls ></video>";
-    }
+        foreach ($videos as $video) {
+            echo "<video src=\"/output/". $video->id ."_final.mp4\" width=\"400\" height=\"300\" controls ></video>";
+        }
 
     ?>
     </body>

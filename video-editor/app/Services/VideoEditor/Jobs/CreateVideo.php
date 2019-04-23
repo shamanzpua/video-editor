@@ -38,13 +38,15 @@ class CreateVideo implements ShouldQueue
         }
 
         if (file_exists(storage_path('video/output/') . $video->id . "_final.mp4")) {
+            $video->updateStatus(Video::STATUS_READY);
             return;
         }
 
         $waterMarks = [
             'edu1.png',
             'wd1.png',
-            'ec1.png',
+            'sp1.png',
+            'pc1.png'
         ];
 
         $manager->create([

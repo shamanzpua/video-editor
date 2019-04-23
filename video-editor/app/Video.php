@@ -7,7 +7,6 @@ use Illuminate\Queue\SerializesModels;
 
 class Video extends Model
 {
-
     const STATUS_READY = 1;
     use SerializesModels;
 
