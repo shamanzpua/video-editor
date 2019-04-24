@@ -10,7 +10,9 @@
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/cboden/ratchet" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/clue/buzz-react" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/darkaonline/l5-swagger" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/doctrine/annotations" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/doctrine/inflector" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/doctrine/instantiator" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/doctrine/lexer" />
@@ -25,6 +27,8 @@
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/fideloper/proxy" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/filp/whoops" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/guzzlehttp/promises" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/guzzlehttp/psr7" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/hamcrest/hamcrest-php" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/jakub-onderka/php-console-color" />
@@ -88,6 +92,7 @@
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/sebastian/recursion-context" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/sebastian/resource-operations" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/swagger-api/swagger-ui" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/swiftmailer/swiftmailer" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/symfony/console" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/symfony/contracts" />
@@ -107,11 +112,13 @@
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/symfony/routing" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/symfony/translation" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/symfony/yaml" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/theseer/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/tijsverkoyen/css-to-inline-styles" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/vladimir-yuldashev/laravel-queue-rabbitmq" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/vlucas/phpdotenv" />
       <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/video-editor/vendor/zircote/swagger-php" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

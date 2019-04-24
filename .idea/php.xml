@@ -110,6 +110,13 @@
       <path value="$PROJECT_DIR$/video-editor/vendor/enqueue/amqp-bunny" />
       <path value="$PROJECT_DIR$/video-editor/vendor/bunny/bunny" />
       <path value="$PROJECT_DIR$/video-editor/vendor/phansys/getid3" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/darkaonline/l5-swagger" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/zircote/swagger-php" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/swagger-api/swagger-ui" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/guzzlehttp/promises" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />

@@ -85,12 +85,28 @@
 
             <form method="post">
                 @csrf
-                <input type="text" placeholder="First video url" name="first_url" value="<?= $input['first_url'] ?? 'https://www.youtube.com/watch?v=kJQP7kiw5Fk'?>"/>
-                <input placeholder="First video start time" type="text" name="first_start" value="<?= $input['first_start'] ?? '00:02:51'?>"/>
-                <input placeholder="First video duration" type="text" name="first_duration" value="<?= $input['first_duration'] ?? '30'?>"/>
-                <input placeholder="Second video url" type="text" name="second_url" value="<?= $input['second_url'] ?? 'https://www.youtube.com/watch?v=uNlHLoiB6GA'?>"/>
-                <input placeholder="Second video start time" type="text" name="second_start" value="<?= $input['second_start'] ?? '00:01:27'?>"/>
-                <input placeholder="Second video duration" type="text" name="second_duration" value="<?= $input['second_duration'] ?? '30'?>"/>
+                <input type="text" placeholder="First video url" name="first_url[]" value="https://www.youtube.com/watch?v=WXBHCQYxwr0"/>
+                <input placeholder="Second video url" type="text" name="second_url[]" value="https://www.youtube.com/watch?v=cBVGlBWQzuc"/>
+
+                <br/> <br/>
+                <input type="text" placeholder="First video url" name="first_url[]" value="https://www.youtube.com/watch?v=b1_B-IKEufg"/>
+                <input placeholder="Second video url" type="text" name="second_url[]" value="https://www.youtube.com/watch?v=5j1RCys4R0g"/>
+
+                <br/> <br/>
+
+                <input type="text" placeholder="First video url" name="first_url[]" value="https://www.youtube.com/watch?v=p6BH7lIoEY0"/>
+                <input placeholder="Second video url" type="text" name="second_url[]" value="https://www.youtube.com/watch?v=K5KAc5CoCuk"/>
+
+                <br/> <br/>
+                <input type="text" placeholder="First video url" name="first_url[]" value="https://www.youtube.com/watch?v=zEvQUgqYBbA"/>
+                <input placeholder="Second video url" type="text" name="second_url[]" value="https://www.youtube.com/watch?v=lzMhXzrdkm4"/>
+
+                <br/> <br/>
+                <input type="text" placeholder="First video url" name="first_url[]" value="https://www.youtube.com/watch?v=584e0BVU3Ks"/>
+                <input placeholder="Second video url" type="text" name="second_url[]" value="https://www.youtube.com/watch?v=SpLrOTPqX0g"/>
+
+                <br/> <br/>
+
                 <input type="submit" name="createVideo" value="Send" />
                 <!-- Form Contents -->
             </form>

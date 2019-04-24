@@ -14,64 +14,116 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="api.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker/web/api.conf">
+      <file leaf-file-name="IndexController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Controllers/IndexController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="8" />
+            <state relative-caret-position="326">
+              <caret line="78" column="28" lean-forward="false" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+              <folding>
+                <element signature="e#40#65#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/video-editor/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="api.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/video-editor/routes/api.php">
+      <file leaf-file-name="multicreate.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/video-editor/resources/views/multicreate.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="476">
+              <caret line="105" column="93" lean-forward="false" selection-start-line="105" selection-start-column="93" selection-end-line="105" selection-end-column="136" />
+              <folding>
+                <marker date="1556057459332" expanded="true" signature="39:82" ph="..." />
+                <marker date="1556057459332" expanded="true" signature="126:146" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppServiceProvider.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/video-editor/app/Providers/AppServiceProvider.php">
+      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/video-editor/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="222">
+              <caret line="87" column="160" lean-forward="false" selection-start-line="87" selection-start-column="160" selection-end-line="87" selection-end-column="160" />
+              <folding>
+                <marker date="1556056782417" expanded="true" signature="39:82" ph="..." />
+                <marker date="1556056782417" expanded="true" signature="126:146" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AuthServiceProvider.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/video-editor/app/Providers/AuthServiceProvider.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BroadcastServiceProvider.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/video-editor/app/Providers/BroadcastServiceProvider.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VideoController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VideoController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Controllers/Rest/VideoController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state relative-caret-position="431">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
                 <element signature="e#45#81#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Controllers/Controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IVideoRepository.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/video-editor/app/Repositories/Contracts/IVideoRepository.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoRepository.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/video-editor/app/Repositories/Rest/VideoRepository.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="36" column="46" lean-forward="false" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+              <folding>
+                <element signature="e#41#89#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoRepository.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/video-editor/app/Repositories/Eloquent/VideoRepository.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="e#45#93#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepositoryServiceProvider.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/video-editor/app/Providers/RepositoryServiceProvider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -95,10 +147,12 @@
       <find>s Queue</find>
       <find>RabbitMQQ</find>
       <find>queue:work</find>
-      <find>queue:work</find>
+      <find>homew</find>
+      <find>essay</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/video-editor/storage</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -107,15 +161,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands/AddFadeEffect.php" />
-        <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/ServiceProvider.php" />
-        <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/Contracts/IManager.php" />
-        <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands/CreateConcatList.php" />
-        <option value="$PROJECT_DIR$/video-editor/storage/video/workdir/videoConcate.data" />
-        <option value="$PROJECT_DIR$/video-editor/vendor/enqueue/amqp-tools/RabbitMqDlxDelayStrategy.php" />
-        <option value="$PROJECT_DIR$/video-editor/vendor/enqueue/amqp-bunny/AmqpConnectionFactory.php" />
         <option value="$PROJECT_DIR$/video-editor/vendor/enqueue/amqp-lib/AmqpConnectionFactory.php" />
-        <option value="$PROJECT_DIR$/video-editor/config/app.php" />
         <option value="$PROJECT_DIR$/video-editor/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/src/LaravelQueueRabbitMQServiceProvider.php" />
         <option value="$PROJECT_DIR$/video-editor/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php" />
         <option value="$PROJECT_DIR$/video-editor/laravel-worker.conf" />
@@ -132,15 +178,9 @@
         <option value="$PROJECT_DIR$/video-editor/config/queue.php" />
         <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/Manager.php" />
         <option value="$PROJECT_DIR$/video-editor/database/migrations/2014_10_12_000000_create_users_table.php" />
-        <option value="$PROJECT_DIR$/video-editor/.env" />
-        <option value="$PROJECT_DIR$/video-editor/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/video-editor/database/migrations/2014_10_12_000000_create_videos_table.php" />
-        <option value="$PROJECT_DIR$/video-editor/app/Video.php" />
-        <option value="$PROJECT_DIR$/video-editor/app/Http/Controllers/IndexController.php" />
-        <option value="$PROJECT_DIR$/video-editor/routes/web.php" />
         <option value="$PROJECT_DIR$/docker/web/Dockerfile" />
         <option value="$PROJECT_DIR$/docker/web/api.conf" />
-        <option value="$PROJECT_DIR$/video-editor/resources/views/list.blade.php" />
         <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands/CutVideo.php" />
         <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands/ConcatVideo.php" />
         <option value="$PROJECT_DIR$/video-editor/start-worker.sh" />
@@ -150,14 +190,28 @@
         <option value="$PROJECT_DIR$/docker/api/Dockerfile" />
         <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands/AddWatermark.php" />
         <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/MergingWithFadeSequenceBuilder.php" />
-        <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/Jobs/CreateVideo.php" />
         <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands/DeleteTemporaryFiles.php" />
         <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands/AddFadeInEffect.php" />
         <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands/AbstractCommand.php" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/video-editor/app/Http/Rest/Controllers/VideoController.php" />
+        <option value="$PROJECT_DIR$/video-editor/.env" />
+        <option value="$PROJECT_DIR$/video-editor/app/Video.php" />
+        <option value="$PROJECT_DIR$/video-editor/resources/views/list.blade.php" />
+        <option value="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/Jobs/CreateVideo.php" />
+        <option value="$PROJECT_DIR$/video-editor/storage/api-docs/api-docs.json" />
         <option value="$PROJECT_DIR$/video-editor/routes/api.php" />
+        <option value="$PROJECT_DIR$/video-editor/app/Repositories/Contracts/IVideoReository.php" />
+        <option value="$PROJECT_DIR$/video-editor/app/Repositories/Contracts/IVideoRepository.php" />
+        <option value="$PROJECT_DIR$/video-editor/config/app.php" />
+        <option value="$PROJECT_DIR$/video-editor/app/Providers/RepositoryServiceProvider.php" />
         <option value="$PROJECT_DIR$/video-editor/app/Http/Controllers/Rest/VideoController.php" />
+        <option value="$PROJECT_DIR$/video-editor/app/Repositories/Eloquent/VideoRepository.php" />
+        <option value="$PROJECT_DIR$/video-editor/app/Repositories/Rest/VideoRepository.php" />
+        <option value="$PROJECT_DIR$/video-editor/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/video-editor/resources/views/multicreate.blade.php" />
+        <option value="$PROJECT_DIR$/video-editor/routes/web.php" />
+        <option value="$PROJECT_DIR$/video-editor/app/Http/Controllers/IndexController.php" />
       </list>
     </option>
   </component>
@@ -277,6 +331,13 @@
       <path value="$PROJECT_DIR$/video-editor/vendor/enqueue/amqp-bunny" />
       <path value="$PROJECT_DIR$/video-editor/vendor/bunny/bunny" />
       <path value="$PROJECT_DIR$/video-editor/vendor/phansys/getid3" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/darkaonline/l5-swagger" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/zircote/swagger-php" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/swagger-api/swagger-ui" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/video-editor/vendor/guzzlehttp/promises" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -325,7 +386,44 @@
               <item name="horizontal-scaling" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="video-editor" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Repositories" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="horizontal-scaling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="horizontal-scaling" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="video-editor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Repositories" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Contracts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="horizontal-scaling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="horizontal-scaling" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="video-editor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Repositories" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Eloquent" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="horizontal-scaling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="horizontal-scaling" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="video-editor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Repositories" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Rest" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="horizontal-scaling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="horizontal-scaling" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="video-editor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="horizontal-scaling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="horizontal-scaling" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="video-editor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="horizontal-scaling" type="b2602c69:ProjectViewProjectNode" />
@@ -343,18 +441,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../new-project/speedy-docker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../data-manager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/video-editor/public/video" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/video-editor/resources/views" />
+      <recent name="$PROJECT_DIR$/video-editor/app/Providers" />
       <recent name="$PROJECT_DIR$/video-editor/app/Http/Controllers/Rest" />
       <recent name="$PROJECT_DIR$/video-editor/app/Http/Controllers" />
       <recent name="$PROJECT_DIR$/video-editor/app/Http/Rest" />
-      <recent name="$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands" />
-      <recent name="$PROJECT_DIR$/video-editor/public" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/video-editor/public/video" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -397,21 +495,25 @@
       <workItem from="1555434541822" duration="7808000" />
       <workItem from="1555493820348" duration="43000" />
       <workItem from="1555848074045" duration="10400000" />
-      <workItem from="1555882142770" duration="1324000" />
+      <workItem from="1555882142770" duration="5093000" />
+      <workItem from="1555921040856" duration="5454000" />
+      <workItem from="1555957615370" duration="19043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158015000" />
+    <option name="totallyTimeSpent" value="186281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="8" width="1374" height="745" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1860817" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19213313" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09854604" sideWeight="0.5030257" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09693053" sideWeight="0.5030257" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.4969743" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -423,7 +525,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.4969743" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -435,137 +536,16 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/video-editor/routes/web.php</url>
-          <line>13</line>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/video-editor/vendor/vladimir-yuldashev/laravel-queue-rabbitmq/tests/Queue/RabbitMQQueueTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/Manager.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="55" column="29" lean-forward="false" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/database/migrations/2014_10_12_000000_create_videos_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Controllers/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="90" column="36" lean-forward="false" selection-start-line="90" selection-start-column="36" selection-end-line="90" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/resources/views/list.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="61" lean-forward="false" selection-start-line="84" selection-start-column="58" selection-end-line="84" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands/AddFadeOutEffect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/config/filesystems.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-619">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/storage/logs/laravel-2019-04-10.log" />
-    <entry file="file://$PROJECT_DIR$/video-editor/config/queue.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1515">
-          <caret line="101" column="59" lean-forward="false" selection-start-line="101" selection-start-column="59" selection-end-line="101" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/start-worker.sh" />
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/YouTubeVideoProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="51" column="93" lean-forward="false" selection-start-line="51" selection-start-column="93" selection-end-line="51" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/Commands/EditVideos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands/ConcatVideo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands/CutVideo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="36" column="97" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/video-editor/storage/logs/laravel-2019-04-21.log" />
     <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/VideoEditCommands/DeleteTemporaryFiles.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/MergingWithFadeSequenceBuilder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="129" column="26" lean-forward="false" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/Jobs/CreateVideo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="70" column="52" lean-forward="false" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="29" column="150" lean-forward="false" selection-start-line="29" selection-start-column="150" selection-end-line="29" selection-end-column="150" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -764,7 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="66" lean-forward="false" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -775,13 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/video-editor/.env.example">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -789,36 +760,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/video-editor/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/video-editor/laravel-worker.conf" />
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Video.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docker/web/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -826,11 +779,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Rest/Controllers/Auth/LoginController.php">
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Rest/Controllers/Auth/LoginController.php" />
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Rest/Controllers/VideoController.php" />
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Providers/BroadcastServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -838,18 +792,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Rest/Controllers/VideoController.php">
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Controllers/Rest/Controllers/VideoController.php" />
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        <state relative-caret-position="375">
+          <caret line="25" column="59" lean-forward="false" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/YouTubeVideoProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="51" column="93" lean-forward="false" selection-start-line="51" selection-start-column="93" selection-end-line="51" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/ServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/MergingWithFadeSequenceBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="84" column="48" lean-forward="false" selection-start-line="84" selection-start-column="48" selection-end-line="84" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Video.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/resources/views/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="77" column="16" lean-forward="false" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+          <folding>
+            <marker date="1556018705395" expanded="true" signature="39:82" ph="..." />
+            <marker date="1556018705395" expanded="true" signature="126:146" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/config/l5-swagger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/storage/api-docs/api-docs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Services/VideoEditor/Jobs/CreateVideo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="173" column="43" lean-forward="false" selection-start-line="173" selection-start-column="43" selection-end-line="173" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Providers/EventServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/video-editor/app/Providers/AppServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -862,52 +939,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Providers/BroadcastServiceProvider.php">
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Repositories/Contracts/IVideoRepository.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Controllers/Rest/Controllers/VideoController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Controllers/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/routes/api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video-editor/routes/web.php">
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Providers/RepositoryServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="41" />
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Repositories/Eloquent/VideoRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="e#45#93#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Repositories/Rest/VideoRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="36" column="46" lean-forward="false" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+          <folding>
+            <element signature="e#41#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="87" column="160" lean-forward="false" selection-start-line="87" selection-start-column="160" selection-end-line="87" selection-end-column="160" />
+          <folding>
+            <marker date="1556056782417" expanded="true" signature="39:82" ph="..." />
+            <marker date="1556056782417" expanded="true" signature="126:146" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/resources/views/multicreate.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="105" column="93" lean-forward="false" selection-start-line="105" selection-start-column="93" selection-end-line="105" selection-end-column="136" />
+          <folding>
+            <marker date="1556057459332" expanded="true" signature="39:82" ph="..." />
+            <marker date="1556057459332" expanded="true" signature="126:146" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Controllers/Rest/VideoController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="431">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
             <element signature="e#45#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video-editor/app/Http/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="78" column="28" lean-forward="false" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+          <folding>
+            <element signature="e#40#65#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

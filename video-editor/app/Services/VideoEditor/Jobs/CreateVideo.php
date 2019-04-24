@@ -36,7 +36,9 @@ class CreateVideo implements ShouldQueue
         if (!$video) {
             throw new \RuntimeException("{$this->videoId} not found");
         }
-
+        /**
+         * @var Video $video
+         */
         if (file_exists(storage_path('video/output/') . $video->id . "_final.mp4")) {
             $video->updateStatus(Video::STATUS_READY);
             return;
@@ -78,9 +80,7 @@ class CreateVideo implements ShouldQueue
             'finalVideo' => 'final.mp4',
         ]);
 
-        /**
-         * @var Video $video
-         */
+
         $video->updateStatus(Video::STATUS_READY);
     }
 }

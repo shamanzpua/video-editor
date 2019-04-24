@@ -11,6 +11,8 @@
 |
 */
 
-Route::get('/', 'IndexController@index');
-Route::get('/list', 'IndexController@videoList');
-Route::post('/', 'IndexController@index');
+Route::get('/create-videos', 'IndexController@multitaskCreate');
+Route::post('/create-videos', 'IndexController@multitaskCreate');
+Route::get('/', 'IndexController@taskCreate');
+Route::post('/', 'IndexController@taskCreate');
+Route::get('/videos', 'IndexController@videoList');
